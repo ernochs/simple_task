@@ -25,8 +25,8 @@ Before you begin, ensure you have met the following requirements:
 Use Git to clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/task-manager.git
-cd task-manager
+git clone https://github.com/your-username/simple-task.git
+cd simple-task
 
 ### 2. Install dependencies
 Backend (Laravel)
